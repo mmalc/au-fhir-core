@@ -1999,6 +1999,10 @@
 			<value value="true"/>
 		</parameter>
 		<parameter>
+			<code value="ipa-comparison"/>
+			<value value="current"/>
+		</parameter>
+		<parameter>
 			<code value="path-expansion-params"/>
 			<value value="../input/_resources/exp-params.json"/>
 		</parameter>
